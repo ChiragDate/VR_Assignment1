@@ -33,32 +33,25 @@ VR_Assignment1_ChiragDate_60004190021 \n
 
 
 # How to Run the Code
-The code is designed to run without any extra modifications or configuration.
-
 1. Coin Detection & Segmentation
 Input:
 
-Image: images/coinsun.jpeg
+Image: images/coins2.jpg
 Command:
 
-bash
-Copy
-python coin_detection.py
+bash python vr_assignement1_canny.py
 Output:
 
 Displays the segmented coins.
-Saves segmented coin images.
 Prints the total number of coins detected.
 2. Panorama Creation
 Input:
 
-Images: images/panroma1.jpeg, images/panroma2.jpeg, images/panroma3.jpeg
+Images: images/Left_image.jpg, images/Right_image.jpg
 Command:
 
-bash
-Copy
-python panorama_creation.py
-Output:
+bash python vr_assignment_panaroma.py
+Output: ![alt text](https://github.com/ChiragDate/VR_Assignment1/blob/main/images/stitched_result_panaroma.jpg)
 
 Displays the final stitched panorama.
 Saves the panorama as stitched_result.jpg.
