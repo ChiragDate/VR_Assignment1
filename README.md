@@ -22,6 +22,7 @@ This repository contains implementations for two computer vision tasks:
 # How to Run the Code
 
 **1. Coin Detection & Segmentation**
+
 #Input:
 
 Image: images/coins2.jpg
@@ -46,7 +47,11 @@ Prints the total number of coins detected.
 
 # Input:
 
-# Images: images/Left_image.jpg, images/Right_image.jpg
+Images: images/Left_image.jpg, images/Right_image.jpg
+
+![alt text](https://github.com/ChiragDate/VR_Assignment1/blob/main/images/Left_image.jpg)
+
+![alt text](https://github.com/ChiragDate/VR_Assignment1/blob/main/images/Right_image.jpg)
 
 # Command:
 
