@@ -1,7 +1,7 @@
 # Coin Detection, Segmentation, and Panorama Creation
 
-**Author:** Shashank Vyas  
-**MT ID:** MT2024141
+**Author:** Chirag Date 
+**MT ID:** MT2024034
 
 ---
 
@@ -20,4 +20,16 @@ This repository contains implementations for two computer vision tasks:
 ---
 
 ## Repository Structure
+VR_Assignment1_ChiragDate_60004190021 /
+├── VR_Assignment1_Canny.ipynb
+├── VR_Assignment1_Panaroma.py
+├── README.md
+│   ├──coins2.jpg
+│   ├── Coin_Task_output.png
+│   ├── Left_image.jpg
+│   ├──Right_image.jpg
+│   └── stitched_result_panaroma.jpg
+├── outline_detected_images.jpg
+
+
 
