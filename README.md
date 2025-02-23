@@ -24,7 +24,9 @@ This repository contains implementations for two computer vision tasks:
 **1. Coin Detection & Segmentation**
 #Input:
 
-# Image: images/coins2.jpg
+Image: images/coins2.jpg
+
+![alt text](https://github.com/ChiragDate/VR_Assignment1/blob/main/images/coins2.jpg)
 
 # Command: 
 
