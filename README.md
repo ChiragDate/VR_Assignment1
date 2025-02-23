@@ -43,9 +43,9 @@ Displays the segmented coins.
 
 Prints the total number of coins detected.
 
-**2. Panorama Creation**
+#2. Panorama Creation
 
-# Input:
+**Input:**
 
 Images: images/Left_image.jpg, images/Right_image.jpg
 
