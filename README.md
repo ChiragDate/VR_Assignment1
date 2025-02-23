@@ -1,7 +1,7 @@
 # Coin Detection, Segmentation, and Panorama Creation
 
 **Author:** Chirag Date 
-**MT ID:** MT2024034
+**ROLL NO:** MT2024034
 
 ---
 
@@ -30,6 +30,38 @@ VR_Assignment1_ChiragDate_60004190021 \n
 │   ├──Right_image.jpg
 │   └── stitched_result_panaroma.jpg
 ├── outline_detected_images.jpg
+
+
+# How to Run the Code
+The code is designed to run without any extra modifications or configuration.
+
+1. Coin Detection & Segmentation
+Input:
+
+Image: images/coinsun.jpeg
+Command:
+
+bash
+Copy
+python coin_detection.py
+Output:
+
+Displays the segmented coins.
+Saves segmented coin images.
+Prints the total number of coins detected.
+2. Panorama Creation
+Input:
+
+Images: images/panroma1.jpeg, images/panroma2.jpeg, images/panroma3.jpeg
+Command:
+
+bash
+Copy
+python panorama_creation.py
+Output:
+
+Displays the final stitched panorama.
+Saves the panorama as stitched_result.jpg.
 
 
 
