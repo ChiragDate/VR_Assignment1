@@ -15,20 +15,7 @@ This repository contains implementations for two computer vision tasks:
 2. **Panorama Creation:**  
    Stitch multiple overlapping images to create a seamless panoramic image using feature extraction, matching, homography estimation, and image warping.
 
-
----
-
-## Repository Structure
-VR_Assignment1_ChiragDate_60004190021 \n
-├── VR_Assignment1_Canny.ipynb
-├── VR_Assignment1_Panaroma.py
-├── README.md
-│   ├──coins2.jpg
-│   ├── Coin_Task_output.png
-│   ├── Left_image.jpg
-│   ├──Right_image.jpg
-│   └── stitched_result_panaroma.jpg
-├── outline_detected_images.jpg
+-----
 
 
 # How to Run the Code
