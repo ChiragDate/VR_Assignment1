@@ -23,7 +23,8 @@ This repository contains implementations for two computer vision tasks:
 
 **1. Coin Detection & Segmentation**
 
-#Input:
+
+# Input:
 
 Image: images/coins2.jpg
 
@@ -43,7 +44,7 @@ Displays the segmented coins.
 
 Prints the total number of coins detected.
 
-#2. Panorama Creation
+# 2. Panorama Creation
 
 **Input:**
 
