@@ -20,7 +20,7 @@ This repository contains implementations for two computer vision tasks:
 ---
 
 ## Repository Structure
-VR_Assignment1_ChiragDate_60004190021 //
+VR_Assignment1_ChiragDate_60004190021 \n
 ├── VR_Assignment1_Canny.ipynb
 ├── VR_Assignment1_Panaroma.py
 ├── README.md
